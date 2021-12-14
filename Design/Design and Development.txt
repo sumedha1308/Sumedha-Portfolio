@@ -1,0 +1,38 @@
+#Add stylelint, eslint and prettier config file
+git clone https://github.com/gcnit/code-template.git
+
+#Rename folder to your project name
+mv code-template <folder-name>
+
+#Go to folder
+cd <folder-name>
+
+#Remove .git folder
+rm -rf .git
+
+#Initialize the directory as a npm package
+npm init -y
+
+#Install stylelint with standard style guide
+npm i -D stylelint stylelint-config-standard
+
+#Install eslint with airbnb style guide
+npm i -D eslint eslint-config-airbnb-base eslint-plugin-import
+
+#Install prettier and related packages
+npm i -D prettier eslint-config-prettier eslint-plugin-prettier
+
+#Install Following extensions on VSCode
+@id:dbaeumer.vscode-eslint
+@id:stylelint.vscode-stylelint
+@id:esbenp.prettier-vscode
+-----------------------------------------------------------------------------------------------------------------------------------------
+Pages:
+1.Homepage
+2.Experience
+3.Personal Projects
+4.Contact
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Make Sure all pages are responsive
+Deploy code on netlify
