@@ -8,8 +8,8 @@
 /* stylelint-disable length-zero-no-unit */
 
 * {
-    padding: 0px;
-    margin: 0px;
+    padding: auto;
+    margin: auto;
     box-sizing: border-box;
     font-family: "Roboto", "Helvetica", "Arial", sans-serif;
     color: whitesmoke;
@@ -360,4 +360,16 @@ nav a:hover {
         font-size: 30px;
         padding-bottom: 25px;
     }
+
+    .about-me-text {
+    padding: 10px;
+    margin-left: 10%;
+    line-height: 20px;
+    color:#394867;
+    font-weight: bold;
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+    line-height: 30px;
+}
 }
