@@ -32,7 +32,8 @@ header {
     box-shadow: 2px 1px 4px 2px #29363c;
     position: fixed;
     width: 100%;
-    top: 0px;
+    margin-top: 0%;
+    /* top: 0px; */
     z-index: 1;
 }
 
@@ -371,5 +372,20 @@ nav a:hover {
     justify-content: center;
     align-items: center;
     line-height: 30px;
+   }
+
+   .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    background-color: #394867;
+    padding: 20px;
+    box-shadow: 2px 1px 4px 2px #29363c;
+    position: fixed;
+    width: 100%;
+    margin-top: 0%;
+    /* top: 0px; */
+    z-index: 1;
    }
 }
