@@ -410,7 +410,7 @@ nav a:hover {
     box-shadow: 2px 1px 4px 2px #29363c;
     position: fixed;
     width: 100%;
-    margin-top: 0%;
+    /* margin-top: 0%; */
     /* top: 0px; */
     z-index: 1;
    }
