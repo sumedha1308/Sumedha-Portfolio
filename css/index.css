@@ -121,10 +121,6 @@ nav a:hover {
     padding: 0px 8%;
 }
 
-.home-section-responsive {
-    /* margin-top: 260px; */
-}
-
 .intro {
     padding: 10px;
 }
@@ -220,14 +216,45 @@ nav a:hover {
     color: #394867;
 }
 
-.about-me-title, .project-title {
+.about-me-title, .project-title, .experience-title {
     font-size: 45px;
-    /* margin-left: 5%; */
     font-weight: bold;
     align-content: center;
     text-align: center;
     padding: 40px;
     color: #394867;
+}
+
+.role-company-date {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 28px;
+    font-weight: bold;
+    align-content: center;
+    text-align: center;
+    margin-top: 4%;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: #394867;
+}
+
+.team-product {
+    font-size: 20px;
+    font-weight: bold;
+    align-content: center;
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: #394867;
+}
+
+.role, .company, .from-date {
+    color: #394867;
+    font-size: 28px;
+    font-weight: bold;
 }
 
 .about-me-text {
@@ -244,7 +271,21 @@ nav a:hover {
     width: 80%;
 }
 
-.about-me-project-text {
+.project-text {
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 20px;
+    color:#394867;
+    font-weight: bold;
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+    line-height: 30px;
+    width: 80%;
+}
+
+.experience-text{
     padding: 10px;
     margin-left: 10%;
     margin-right: 10%;
@@ -415,7 +456,19 @@ nav a:hover {
         width: 100%;
    }
 
-   .about-me-project-text {
+   .project-text {
+        padding: 10px;
+        margin-left: 10%;
+        line-height: 28px;
+        color:#394867;
+        font-weight: bold;
+        font-size: medium;
+        justify-content: center;
+        align-items: center;
+        width: 80%;
+   }
+
+   .experience-text {
         padding: 10px;
         margin-left: 10%;
         line-height: 28px;
@@ -470,5 +523,46 @@ nav a:hover {
     font-weight: bold;
     line-height: 40px;
     font-size: 22px;
+    }
+
+    .role-company-date {
+    display: flex;
+    flex-direction: column;
+    font-size: 28px;
+    font-weight: bold;
+    align-content: center;
+    text-align: center;
+    color: #394867;
+}
+
+    .role, .company, .from-date {
+        color: #394867;
+        font-size: 15px;
+        font-weight: bold;
+        margin-left: 2%;
+        margin-right: 2%;
+        line-height: 30px;
+    }
+
+    .team-product {
+        font-size: 15px;
+        font-weight: bold;
+        align-content: center;
+        text-align: center;
+        margin-top: 4%;
+        margin-bottom: 2%;
+        margin-left: 5%;
+        margin-right: 5%;
+        color: #394867;
+        line-height: 25px;
+    }
+
+    .from-date {
+        color: #394867;
+        font-size: small;
+        font-weight: bold;
+        margin-left: 2%;
+        margin-right: 2%;
+        line-height: 30px;
     }
 }
