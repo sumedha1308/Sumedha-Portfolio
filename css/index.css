@@ -244,6 +244,20 @@ nav a:hover {
     width: 80%;
 }
 
+.about-me-project-text {
+    padding: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 20px;
+    color:#394867;
+    font-weight: bold;
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+    line-height: 30px;
+    width: 80%;
+}
+
 .footer {
     height: auto;
     display: flex;
@@ -390,16 +404,37 @@ nav a:hover {
     }
 
     .about-me-text {
-    padding: 10px;
-    margin-left: 10%;
-    line-height: 20px;
-    color:#394867;
-    font-weight: bold;
-    font-size: larger;
-    justify-content: center;
-    align-items: center;
-    line-height: 30px;
+        padding: 10px;
+        margin-left: 10%;
+        line-height: 28px;
+        color:#394867;
+        font-weight: bold;
+        font-size: medium;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
    }
+
+   .about-me-project-text {
+        padding: 10px;
+        margin-left: 10%;
+        line-height: 28px;
+        color:#394867;
+        font-weight: bold;
+        font-size: medium;
+        justify-content: center;
+        align-items: center;
+        width: 80%;
+   }
+
+   .about-me-title, .project-title {
+    font-size: 35px;
+    font-weight: bold;
+    align-content: center;
+    text-align: center;
+    padding: 40px;
+    color: #394867;
+}
 
    .header {
     display: flex;
@@ -426,5 +461,14 @@ nav a:hover {
     background-color: #394867;
     height: 40%;
     margin-bottom: 0px;
+    }
+
+    .project-heading {
+    margin: 10px;
+    margin-left: 5%;
+    color:#394867;
+    font-weight: bold;
+    line-height: 40px;
+    font-size: 22px;
     }
 }
