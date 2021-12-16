@@ -12,7 +12,7 @@
     margin: 0px;
     box-sizing: border-box;
     font-family: "Roboto", "Helvetica", "Arial", sans-serif;
-    color: whitesmoke;
+    color: white;
     scroll-behavior: smooth;
 }
 
@@ -122,7 +122,7 @@ nav a:hover {
 }
 
 .home-section-responsive {
-    margin-top: 260px;
+    /* margin-top: 260px; */
 }
 
 .intro {
@@ -241,6 +241,7 @@ nav a:hover {
     justify-content: center;
     align-items: center;
     line-height: 30px;
+    width: 80%;
 }
 
 .footer {
@@ -411,7 +412,7 @@ nav a:hover {
     position: fixed;
     width: 100%;
     /* margin-top: 0%; */
-    /* top: 0px; */
+    top: 1px;
     z-index: 1;
    }
 
