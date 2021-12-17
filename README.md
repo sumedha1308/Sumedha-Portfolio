@@ -19,7 +19,7 @@
             <details>
                <summary><a href="#features">Features</a></summary>
                   <ul>
-                     <li><a href="#home-page">Home Page</a></li>
+                     <li><a href="#Responsive-Home-Page-for-small-screen-size">Responsive Home Page for small screen size</a></li>
                      <li><a href="#experience">Experience</a></li>
                      <li><a href="#projects">Projects</a></li>
 		     <li><a href="#projects">Contact</a></li>
@@ -41,6 +41,7 @@ Portfolio is to showcase my knowledge, experience, developed projects.
 
 Here's why:
 * Using portfolio I can easily share experience, skills, projects and contact details.
+
 ![image](https://github.com/sumedha1308/Sumedha-Portfolio/blob/master/resources/Homepag2.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -72,9 +73,9 @@ This is set of instructions and information to use Utility Apps website.
 
 ## Features
 
-### Home Page
+### Responsive Home Page for small screen size
 
-![image](https://github.com/sumedha1308/Sumedha-Portfolio/blob/master/resources/Homepag2.png)
+![image](https://github.com/sumedha1308/Sumedha-Portfolio/blob/master/resources/responsive-homepage.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -109,6 +110,6 @@ This is set of instructions and information to use Utility Apps website.
 
 Sumedha Deshpande - [Linkedin](www.linkedin.com/in/sumedha1308) - sumedhasd1308@gmail.com
 
-Project Link: [Utility Apps](https://github.com/sumedha1308/UtilityAppWebsite)
+Project Link: [Sumedha_Portfolio](https://github.com/sumedha1308/Sumedha-Portfolio)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
