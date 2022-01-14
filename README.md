@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-# [Sumedha Porfolio](https://sumedha-portfolio.netlify.app/html/projects.html)<br>
+# [Sumedha Porfolio](https://sumedha-portfolio.netlify.app/)<br>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
