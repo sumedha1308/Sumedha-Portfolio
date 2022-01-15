@@ -42,7 +42,7 @@ Portfolio is to showcase my knowledge, experience, developed projects.
 Here's why:
 * Using portfolio I can easily share experience, skills, projects and contact details.
 
-![image](https://github.com/sumedha1308/Sumedha-Portfolio/blob/master/resources/Homepag2.png)
+![image](https://github.com/sumedha1308/Sumedha-Portfolio/blob/master/resources/updated-aboute-me.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -81,19 +81,19 @@ This is set of instructions and information to use Utility Apps website.
 
 ### Experience
 
-![image](https://github.com/sumedha1308/Sumedha-Portfolio/blob/master/resources/portfolio-exp.png)
+![image](https://github.com/sumedha1308/Sumedha-Portfolio/blob/master/resources/updated-experience-page.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Projects
 
-![image](https://github.com/sumedha1308/Sumedha-Portfolio/blob/master/resources/portfolio-projects.png)
+![image](https://github.com/sumedha1308/Sumedha-Portfolio/blob/master/resources/updated-projects-page.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Contact
 
-![image](https://github.com/sumedha1308/Sumedha-Portfolio/blob/master/resources/portfolio-contact.png)
+![image](https://github.com/sumedha1308/Sumedha-Portfolio/blob/master/resources/updated-contact-page.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
