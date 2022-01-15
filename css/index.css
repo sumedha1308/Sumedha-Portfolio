@@ -271,6 +271,20 @@ nav a:hover {
     width: 80%;
 }
 
+.about-me-text-tools {
+    padding: 10px;
+    margin-left: 14%;
+    margin-right: 10%;
+    line-height: 20px;
+    color:#394867;
+    font-weight: bold;
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+    line-height: 15px;
+    width: 80%;
+    list-style-type: square;
+}
 .project-text {
     padding: 10px;
     margin-left: 10%;
@@ -310,6 +324,11 @@ nav a:hover {
     color: white;
 }
 
+.resume {
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
 .home-page-footer {
     height: auto;
     display: flex;
@@ -317,6 +336,16 @@ nav a:hover {
     align-items: center;
     flex-direction: column;
     margin-top: 10%;
+    background-color: #394867;
+}
+
+.home-page-footer-up-margin {
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 22rem;
     background-color: #394867;
 }
 
@@ -419,7 +448,8 @@ nav a:hover {
 
     .about-me-container {
         width: 80%;
-        padding-bottom: 60px;
+        padding-bottom: 10px;
+        /* margin-bottom: 10%; */
     }
 
     .about-me-title {
@@ -428,6 +458,7 @@ nav a:hover {
 
     .about-section {
         height: auto;
+        /* margin-bottom: 25%; */
     }
 
     .intro {
@@ -456,6 +487,20 @@ nav a:hover {
         width: 100%;
    }
 
+   .about-me-text-tools {
+        padding: 10px;
+        margin-left: 17%;
+        /* margin-bottom: 15%; */
+        line-height: 20px;
+        color:#394867;
+        font-weight: bold;
+        font-size: medium;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        list-style-type: square;
+   }
+
    .project-text {
         padding: 10px;
         margin-left: 10%;
@@ -467,6 +512,16 @@ nav a:hover {
         align-items: center;
         width: 80%;
    }
+
+   .home-page-footer-up-margin {
+    margin-top: 20%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #394867;
+    }
 
    .experience-text {
         padding: 10px;
