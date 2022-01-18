@@ -108,7 +108,7 @@ This is set of instructions and information to use Utility Apps website.
 <!-- CONTACT -->
 ## Contact
 
-Sumedha Deshpande - [Linkedin](www.linkedin.com/in/sumedha1308) - sumedhasd1308@gmail.com
+Sumedha Deshpande - [Linkedin](https://www.linkedin.com/in/sumedha1308/) - sumedhasd1308@gmail.com
 
 Project Link: [Sumedha_Portfolio](https://github.com/sumedha1308/Sumedha-Portfolio)
 
