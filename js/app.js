@@ -1,3 +1,6 @@
+/* eslint-disable no-var */
+/* eslint-disable no-unused-vars */
+/* eslint-disable no-console */
 {
     const hamburger = document.querySelector('.hamburger');
     const nav = document.querySelector('nav');
@@ -25,5 +28,21 @@
             isHamburgerOpen = false;
         }
     });
+
     // eslint-disable-next-line no-console
+
+    // console.log('intialiseVar', intialiseVar);
+
+    const maxNumberOfVotes = function maxNumberOfVotes(args) {
+        // let maxVoteNumber = 0;
+        const countAtB = args[1];
+        var intialiseVar = 15;
+
+        const countAPlusC = args[0] + args[2];
+        if (countAtB > countAPlusC) {
+            return countAtB;
+        }
+        return countAPlusC;
+    };
+    console.log('Result', maxNumberOfVotes([1, 2, 3]));
 }
